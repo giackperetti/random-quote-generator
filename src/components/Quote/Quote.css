@@ -1,0 +1,16 @@
+.quote {
+  margin: 100px;
+}
+
+.quote-text {
+  font-style: italic;
+}
+
+.quote-character {
+  font-style: italic;
+}
+
+.quote-movie {
+  font-style: normal;
+  font-weight: 100;
+}
